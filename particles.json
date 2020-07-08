@@ -1,21 +1,21 @@
 {
   "particles": {
     "number": {
-      "value": 100
+      "value": 75
     },
       "color": {
-          "value":["#8FBC8F", "#00FF7F", "#228B22"]
+          "value":["#ffffff"]
       }, 
       "size": {
-          "value":3
+          "value":4
       },
       "opacity": {
-          "value": 0.7
+          "value": 0.8
       }, 
       "line_linked": {
           "color" : "#ffffff",
-          "opacity" : 0.0,
-          "distance": 200
+          "opacity" : 0.5,
+          "distance": 150
       }
   },
     "interactivity": {
