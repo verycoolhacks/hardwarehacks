@@ -11,6 +11,24 @@
     width: 100%;
     height: 100%;
 }
+
+.sponsors {
+    display: flex;
+    padding-bottom: 5%;
+}
+
+.sponsorimage {
+    width: 40%;
+    height: 40%;
+    margin-right: 10%;
+}
+
+.sponsorimage2 {
+    width: 40%;
+    height: 40%;
+    margin-left: 10%;
+}
+
 .title {
     width: 90%;
     margin-left: 5%;
